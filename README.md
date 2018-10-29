@@ -12,7 +12,7 @@ These instructions will get a copy of the JADE Google Analytics Demo up and runn
 
 ### Prerequisites
 
-Before you can load the schemas, you will need JADE 2018 installed:
+**Before you can load the schemas, you will need JADE 2018 installed:**
 
 1. Grab a FREE Developer's license at https://secure.jadeworld.com/devlicense/
 2. Download the JADE 2018 release at https://www.jadeworld.com/solutions-for/dev-partners/ 
@@ -21,7 +21,7 @@ Before you can load the schemas, you will need JADE 2018 installed:
 
 > For more detailed instructions for installing JADE, visit https://www.jadeworld.com/downloads/tech/manuals/2016/InstallConfig.pdf
 
-You will also need a Google Analytics account:
+**You will also need a Google Analytics account:**
 
 1. Visit <a href="https://www.google.com/analytics/">Google Analytics</a> and create a free account.
 2. Edit your jade.ini file, adding the following to it:
