@@ -1,9 +1,6 @@
 # Google-Analytics
 This repository contains a demonstration of JADE's integration with Google Analytics.
 
-## Documentation Guide
-*None yet?*
-
 ## Getting Started
 These instructions will get a copy of the JADE Google Analytics Demo up and running on your local machine.
 
