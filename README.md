@@ -1,6 +1,3 @@
-<a href="https://www.jadeworld.com/solutions-for/dev-partners/"><img src="" title="Jade Software" alt="Jade Software"></a>
-(Will be some kind of JADE banner)
-
 # Google-Analytics
 This repository contains a demonstration of JADE's integration with Google Analytics.
 
