@@ -18,6 +18,34 @@ These instructions will get a copy of the JADE Google Analytics Demo up and runn
 **You will also need a Google Analytics account:**
 
 1. Visit <a href="https://www.google.com/analytics/">Google Analytics</a> and create a free account.
+Note that as of the end of last year, Google is pushing for the use of Firebase for mobile apps. If you wish to make a new property that is not a website without using Firebase, perform the following steps (tested as at 14/03/2019):
+
+
+    a. Select the Admin tab
+
+    b. In the Property column, select "Create new property" button.
+
+    c. Select Website.
+
+    d. Provide a Website Name. You may put any website name here.
+
+    e. Provide a Website URL. You may put any website URL here.
+
+    f. Click Get Tracking ID.
+
+    g. Re-open the Admin tab
+
+    h. In the View column, select the "Create new view" button.
+
+    i. Select Mobile app.
+
+    j. Provide a Reporting View Name.
+
+    k. Click Create View.
+
+    You may now safely delete the Web Site View and use the Mobile App view for your JADE application.
+
+
 2. Edit your jade.ini file, adding the following to it:
 [GoogleAnalytics]
 GoogleID=UA-*Your Google Analytics ID*
